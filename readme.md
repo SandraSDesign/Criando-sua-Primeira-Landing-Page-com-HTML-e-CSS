@@ -1,6 +1,6 @@
 ## Projeto Criando minha primeira Landing Page
 # Utilizando HTML e CSS
-##Link do projeto: https://sandrasdesign.github.io/Criando-sua-Primeira-Landing-Page-com-HTML-e-CSS/
+Link do projeto: https://sandrasdesign.github.io/Criando-sua-Primeira-Landing-Page-com-HTML-e-CSS/
 
 <img width="542" alt="image" src="https://github.com/SandraSDesign/Criando-sua-Primeira-Landing-Page-com-HTML-e-CSS/assets/139817366/9ed65c8e-c51e-4c04-95ba-54f59d444660">
 <img width="630" alt="image" src="https://github.com/SandraSDesign/Criando-sua-Primeira-Landing-Page-com-HTML-e-CSS/assets/139817366/21c5d0c1-471d-486c-9d1d-d2b5fe987910">
