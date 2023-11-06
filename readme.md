@@ -6,3 +6,4 @@
 <img width="709" alt="image" src="https://github.com/SandraSDesign/Criando-sua-Primeira-Landing-Page-com-HTML-e-CSS/assets/139817366/5154a248-900b-46a8-98f3-06eac17c70fd">
 <img width="515" alt="image" src="https://github.com/SandraSDesign/Criando-sua-Primeira-Landing-Page-com-HTML-e-CSS/assets/139817366/e45313de-ab8e-428f-83ef-b3cfef9dad27">
 
+Link do projeto: https://sandrasdesign.github.io/Criando-sua-Primeira-Landing-Page-com-HTML-e-CSS/
